@@ -6,7 +6,17 @@
     max-width: 950px;
     margin: 0 auto;
 }
+.title {
+    text-align: center;
+    margin-bottom: 60px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #0D0D0D;
+    text-transform: uppercase;
+}
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
-@import 'blocks/advantage'
+@import 'blocks/advantage';
+@import 'blocks/consultation';
+@import 'blocks/forms';
